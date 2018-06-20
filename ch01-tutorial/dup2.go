@@ -39,6 +39,7 @@ func main() {
 }
 
 // map 是指针传递还是传递的副本， 会修改原counts里面的值吗？
+// 答案： 引用传递
 func countLines(f *os.File, counts map[string]int) {
 	input := bufio.NewScanner(f)
 
