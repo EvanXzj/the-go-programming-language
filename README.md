@@ -1,2 +1,2 @@
 # the-go-programming-language
-The Go programming language book learning
+The Go Programming Language Book Learning
